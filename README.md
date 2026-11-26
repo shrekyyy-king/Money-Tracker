@@ -17,6 +17,11 @@ jadi gunakan **Pengaturan → Cadangkan (JSON)** secara berkala.
 - Laporan ringkasan dan pemasukan-pengeluaran (basis kas), ekspor CSV
 - Alokasi dana per dompet (Tunai, BRI, BCA, DANA, bisa ditambah) dan transfer antar dompet
 - Portofolio investasi terpisah dari arus kas (pembelian aset bukan pengeluaran)
+- Dua bahasa: Indonesia dan English (tombol ID/EN)
+- Kategori kustom (tambah, ubah, hapus)
+- Jual aset (penuh atau sebagian) dengan laba/rugi terealisasi
+- Anggaran bulanan (total, per kelompok, per kategori) dengan peringatan overspending
+- Target tabungan dengan progres dan kebutuhan tabungan per bulan
 - Cadangan dan pemulihan JSON, tema terang/gelap
 
 ## Menjalankan lokal
@@ -28,5 +33,5 @@ Buka `index.html` di browser.
 3. Situs aktif di `https://USERNAME.github.io/NAMA-REPO/`.
 
 ## Belum tersedia
-Anggaran, target tabungan, kategori kustom, refund, jual aset, laporan arus kas
+Cakupan dana darurat, refund, laporan arus kas
 operasi/investasi/pendanaan, ekspor Excel/PDF, tes otomatis.
